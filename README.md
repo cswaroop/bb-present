@@ -1,4 +1,5 @@
 # Writing Clojure on the Command Line with Babashka
+https://youtu.be/RogyxI-GaGQ
 
 This is the source for my Los Angeles Clojure Meetup talk on April 8, 2020.
 
